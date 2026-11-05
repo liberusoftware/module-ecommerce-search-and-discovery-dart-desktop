@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-search-and-discovery-dart-desktop",
+  "capabilityKey": "planned:ecommerce:search-and-discovery",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_search_and_discovery_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "presentationPlan": "projects/ecommerce/features/search-and-discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
